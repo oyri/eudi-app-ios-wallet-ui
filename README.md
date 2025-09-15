@@ -3,6 +3,8 @@
 :heavy_exclamation_mark: **Important!** Before you proceed, please read
 the [EUDI Wallet Reference Implementation project description](https://github.com/eu-digital-identity-wallet/.github/blob/main/profile/reference-implementation.md)
 
+Copy of repo for me.
+
 ----
 
 ## Table of contents
